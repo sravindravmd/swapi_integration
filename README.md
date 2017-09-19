@@ -17,10 +17,11 @@ yarn
 
 Below mentioned feature are implemented in this application using `Start Wars API's`.
 
-1) #####User Login.
+1) User Login.
+
     Both `username` and `password` is required to authenticate user. `username ` is case insensitive.
         
-2) #####Search Planets.
+2) Search Planets.
     1. Search functionality implemented using `swapi api` with search field `name` 
     2. Search is triggered every key entry and search is limited to 15 times/min, except user `Luke Skywalker`.   
     3. Search results are displayed using React native `<FlatList />` component.
