@@ -4,7 +4,7 @@
 ## Installation
 
 All required packages are marked in "package.json" file
-same has been marked in yarn.lock file.
+and same locked with yarn.lock file.
 
 Use below command to install all dependency packages.
 
