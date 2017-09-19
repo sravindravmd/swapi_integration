@@ -12,7 +12,6 @@ Use below command to install all dependency packages.
 npm install
 or
 yarn 
-
 ```
 ##Features.
 
