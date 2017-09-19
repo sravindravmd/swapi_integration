@@ -25,4 +25,6 @@ Below mentioned feature are implemented in this application using `Start Wars AP
     2. Search is triggered every key entry and search is limited to 15 times/min, except user `Luke Skywalker`.   
     3. Search results are displayed using React native `<FlatList />` component.
     4. `Animating` component of planet with larger population.
- 
+3) Custom Components are created with `ES6  JSX Syntax` and using both `state` and `stateless` pattrens . 
+4) `Redux` used for managing data madel.
+5) `React-native-router-flux` used for app Routing and mapped to Redux-actions.
